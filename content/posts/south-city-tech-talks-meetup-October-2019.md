@@ -26,4 +26,4 @@ Open discussion on tools and technologies that we love and use on a daily basis
 
 ## Materials
 
-## Participation
+TBD
