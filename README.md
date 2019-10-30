@@ -1,6 +1,8 @@
 # Tech Talks Web
 South City Resident's Group for hands-on technical meetup
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8c17908c-238c-4924-a825-d300a48661cd/deploy-status)](https://app.netlify.com/sites/tech-talks-sc/deploys)
+
 ## Requirements
 
 1. Hugo Extended [Download](https://github.com/gohugoio/hugo/releases)
