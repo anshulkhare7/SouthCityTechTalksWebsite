@@ -2,7 +2,7 @@
 title: "Tech Talks Meetup Group"
 baseURL: "https://example.org/"
 theme: "hugo-theme-zen"
-languageCode: "en-GB"
+languageCode: "en-US"
 defaultContentLanguage: "en"
 pluralizelisttitles: false
 removePathAccents: true
@@ -10,8 +10,8 @@ paginate: 10
 paginatePath: "page"
 rssLimit: 20
 author:
-  name: "Your Name"
-  url: "https://example.org/somepage"
+  name: "Tech Talks Admin"
+  url: "https://tech-talks-sc.netlify.com"
   avatar: "path/to/some-image.jpg"
 
 outputs:

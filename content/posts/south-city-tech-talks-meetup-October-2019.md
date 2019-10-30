@@ -1,8 +1,13 @@
 ---
+id: 1
 title: "South City Tech Talks Meetup October 2019"
 date: 2019-10-30T14:37:04+05:30
 draft: false
+type: "meetup"
 ---
+
+Agenda and material from our Meetup #1
+<!--more-->
 
 ## Agenda
 
