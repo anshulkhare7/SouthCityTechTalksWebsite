@@ -1,5 +1,23 @@
 # Tech Talks Web
 
+## Requirements
+
+1. Hugo Extended [Download](https://github.com/gohugoio/hugo/releases)
+
+## Development Server
+
+```
+hugo serve
+```
+
+## Content Editing
+
+Create new post
+
+```
+hugo new posts/south-city-tech-talks-meetup-October-2019.md
+```
+
 ## Hugo Usage
 
 ```
