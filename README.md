@@ -1,4 +1,5 @@
 # Tech Talks Web
+South City Resident's Group for hands-on technical meetup
 
 ## Requirements
 
@@ -16,6 +17,12 @@ Create new post
 
 ```
 hugo new posts/south-city-tech-talks-meetup-October-2019.md
+```
+
+Edit existing pages or posts
+
+```
+Inspect content/
 ```
 
 ## Hugo Usage
