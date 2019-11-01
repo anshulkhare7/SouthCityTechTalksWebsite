@@ -36,3 +36,4 @@ params:
   searchSize: 20
   sidebar: true
   submitted: true
+  logo: false
