@@ -1,7 +1,7 @@
 ---
 id: 1
 title: "South City Tech Talks Meetup November 1st 2019"
-date: 2019-10-30T14:37:04+05:30
+date: 2019-11-12T14:37:04+05:30
 draft: false
 type: "meetup"
 ---
