@@ -20,8 +20,15 @@ Agenda and material for our special session #{{< param id >}}
 |           |                                     |
 | --------- | ----------------------------------- |
 | **Time**  | 23rd November 2019, 2:30pm - 4:30pm |
-| **Venue** | TBD                                 |
+| **Venue** | B7 204                              |
 
 ## Shortlisted Talks
 
-TBD
+* How to Run Smarter in Production: Getting Started with Site Reliability Engineering
+* What You See Is What You Get For AWS Infrastructure
+* ZeroTrustOps: Securing at Scale
+* GitOps FTW
+
+> Open for change during the actual viewing :)
+
+
