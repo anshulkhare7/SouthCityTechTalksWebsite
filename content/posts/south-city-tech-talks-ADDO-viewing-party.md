@@ -24,11 +24,18 @@ Agenda and material for our special session #{{< param id >}}
 
 ## Shortlisted Talks
 
-* How to Run Smarter in Production: Getting Started with Site Reliability Engineering
-* What You See Is What You Get For AWS Infrastructure
-* ZeroTrustOps: Securing at Scale
-* GitOps FTW
+| Talk                                                                                | Video URL                                      |
+| ----------------------------------------------------------------------------------- | ---------------------------------------------- |
+| How to Run Smarter in Production: Getting Started with Site Reliability Engineering | [YouTube](https://youtu.be/ike3vQbE4zc?t=1798) |
+| What You See Is What You Get For AWS Infrastructure                                 | [YouTube](https://youtu.be/xtNx1t6lxQE?t=3678) |
+| ZeroTrustOps: Securing at Scale                                                     | [YouTube](https://youtu.be/6GO9h1VsXc4?t=68)   |
+| GitOps FTW                                                                          | [YouTube](https://youtu.be/EXMND7WCiLc?t=3853) |
 
 > Open for change during the actual viewing :)
 
+Some more interesting talks:
+
+| Talks                                | Video URL                                      |
+| ------------------------------------ | ---------------------------------------------- |
+| Modern Solution Delivery: IT As Code | [YouTube](https://youtu.be/6GO9h1VsXc4?t=5615) |
 
