@@ -1,6 +1,6 @@
 ---
 title: "Tech Talks Meetup Group"
-baseURL: "http://tech-talks-sc.netlify.com/"
+baseURL: "https://tech-talks-sc.netlify.com/"
 theme: "hugo-theme-zen"
 languageCode: "en-US"
 defaultContentLanguage: "en"
