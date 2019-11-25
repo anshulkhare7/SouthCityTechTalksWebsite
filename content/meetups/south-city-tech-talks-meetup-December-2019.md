@@ -3,6 +3,7 @@ id: 3
 title: "South City Tech Talks Meetup December 2019"
 date: 2019-11-25T10:56:52+05:30
 draft: false
+type: "meetup"
 ---
 
 Agenda and material for our December 2019 session #{{< param id >}}
