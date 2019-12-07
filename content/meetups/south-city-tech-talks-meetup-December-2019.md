@@ -22,8 +22,8 @@ Happy to announce we are having another South City Tech Talks Meetup. This meetu
 
 |           |     |
 | --------- | --- |
-| **Time**  | TBD |
-| **Venue** | TBD |
+| **Time**  | 14 December 2019, 3pm - 5pm |
+| **Venue** | B7 204 (Tentatively) |
 
 ## Proposed Talks
 
