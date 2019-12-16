@@ -12,3 +12,6 @@ We have a group in [Telegram Messenger](https://telegram.org/). We decided to go
 2. Free and open bots for automation
 3. Easy integrations through [Open API](https://core.telegram.org/)
 
+Join by following the URL below:
+
+* [http://bit.do/sctech](http://bit.do/sctech)
