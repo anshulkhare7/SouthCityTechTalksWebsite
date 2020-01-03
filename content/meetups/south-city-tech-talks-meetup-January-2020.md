@@ -1,36 +1,36 @@
 ---
 id: 4
 title: "South City Tech Talks Meetup January 2020"
-date: 2019-12-15T18:17:07+05:30
-draft: true
+date: 2020-01-03T09:17:07+05:30
+draft: false
 type: "meetup"
 ---
 
-Agenda and material for our December 2019 session #{{< param id >}}
+Agenda and material for our January 2020 session #{{< param id >}}
 
-Happy to announce we are having another South City Tech Talks Meetup. This meetup is focussed on cloud native technologies like storage, containers, orchestrators etc.
+Happy to announce we are having another South City Tech Talks Meetup.
 
 <!--more-->
 
 ## Agenda
 
-* Talks on *TBD* by participants
+* Talks on two topics by participants
 * Discuss use-cases
 * Have fun! :)
 
 ### Time and Venue
 
-|           |     |
-| --------- | --- |
-| **Time**  | TBD |
-| **Venue** | TBD |
+|           |                             |
+| --------- | --------------------------- |
+| **Time**  | January 25, 2020, 3pm - 5pm |
+| **Venue** | TBD                         |
 
 ## Proposed Talks
 
 | Talk                                       | Proposed By |
 | ------------------------------------------ | ----------- |
-| TBD      | TBD    |
-| TBD | TBD      |
+| Industrial automation with Computer Vision | Anshul      |
+| Getting started with Elasticsearch         | Praveen     |
 
 ## Take Aways
 
