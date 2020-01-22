@@ -30,7 +30,7 @@ Happy to announce we are having another South City Tech Talks Meetup.
 | Talk                                       | Proposed By |
 | ------------------------------------------ | ----------- |
 | Industrial automation with Computer Vision | Anshul      |
-| Getting started with Elasticsearch         | Praveen     |
+| Hands-on Google Big Table and it's use-cases | Jitendra     |
 
 ## Take Aways
 
