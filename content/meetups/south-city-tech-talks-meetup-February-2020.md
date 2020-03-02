@@ -36,9 +36,7 @@ Happy to announce we are having another South City Tech Talks Meetup. This time 
 
 ### Blockchain: Now and Beyond
 
-```
-TBA
-```
+<script async class="speakerdeck-embed" data-id="5882829e72c245c4977ff87600deba68" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### Introduction to 5G
 
