@@ -1,6 +1,6 @@
 ---
 id: 5
-title: "South City Tech Talks Meetup Februrary 2020"
+title: "South City Professionals & Tech Talks Meetup Februrary 2020"
 date: 2020-02-06T09:17:07+05:30
 draft: false
 type: "meetup"
@@ -8,7 +8,7 @@ type: "meetup"
 
 Agenda and material for our February 2020 session #{{< param id >}}
 
-Happy to announce we are having another South City Tech Talks Meetup.
+Happy to announce we are having another South City Tech Talks Meetup. This time we are having a combined meetup along with South City Professionals group.
 
 <!--more-->
 
@@ -23,7 +23,7 @@ Happy to announce we are having another South City Tech Talks Meetup.
 |           |                              |
 | --------- | ---------------------------- |
 | **Time**  | February 29, 2020, 3pm - 5pm |
-| **Venue** | *TBD*                        |
+| **Venue** | 1st Floor, Old Club House, South City                        |
 
 ## Proposed Talks
 
@@ -34,4 +34,22 @@ Happy to announce we are having another South City Tech Talks Meetup.
 
 ## Take Aways
 
-> TBD
+### Blockchain: Now and Beyond
+
+```
+TBA
+```
+
+### Introduction to 5G
+
+<script async class="speakerdeck-embed" data-id="62d836e812d54b5ca801aad5e88d5237" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+## Photos from the event
+
+![](/pictures/feb2020-meetup/IMG_20200229_164711.jpg)
+
+> Deepak talking about Blockchain
+
+![](/pictures/feb2020-meetup/IMG_20200229_164710.jpg)
+
+> Subba Rao talking about 5G
