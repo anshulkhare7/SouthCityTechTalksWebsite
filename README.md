@@ -24,10 +24,10 @@ hugo serve
 
 ## Content Editing
 
-Create new post
+Create new meetup
 
 ```
-hugo new posts/south-city-tech-talks-meetup-October-2019.md
+hugo new meetups/south-city-tech-talks-meetup-October-2019.md
 ```
 
 Edit existing pages or posts
