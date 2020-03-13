@@ -7,6 +7,15 @@ South City Resident's Group for hands-on technical meetup
 
 1. Hugo Extended [Download](https://github.com/gohugoio/hugo/releases)
 
+## Update Theme Repo
+
+```
+git submodule init
+git submodule update
+```
+
+> Theme repo is added as a `git submodule`
+
 ## Development Server
 
 ```
