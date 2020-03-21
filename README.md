@@ -1,7 +1,10 @@
 # Tech Talks Web
 South City Resident's Group for hands-on technical meetup
 
+[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Ftech-talks-sc.netlify.com&logo=circle&logoColor=white)](https://tech-talks-sc.netlify.com/)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8c17908c-238c-4924-a825-d300a48661cd/deploy-status)](https://app.netlify.com/sites/tech-talks-sc/deploys)
+
 
 ## Requirements
 
