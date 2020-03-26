@@ -22,8 +22,8 @@ Happy to announce we are having another South City Professionals (Tech Talks) Me
 
 |           |                           |
 | --------- | ------------------------- |
-| **Time**  | March 28, 2020, 4pm - 6pm |
-| **Venue** | Online - TBD              |
+| **Time**  | March 28, 2020, 4pm - 6pm                                        |
+| **Venue** | Online - Zoho [Meetup URL](https://meetinglab.zoho.com/meeting/register?sessionId=1026159962)              |
 
 ## Proposed Talks
 
