@@ -1,6 +1,6 @@
 ---
 id: 3
-title: "South City Tech Talks Meetup December 2019"
+title: "SC Tech Talk — Dec' 19"
 date: 2019-11-25T10:56:52+05:30
 draft: false
 type: "meetup"
