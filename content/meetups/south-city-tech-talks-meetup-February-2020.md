@@ -1,6 +1,6 @@
 ---
 id: 5
-title: "South City Professionals & Tech Talks Meetup Februrary 2020"
+title: "SC Tech Talk — Feb' 20"
 date: 2020-02-06T09:17:07+05:30
 draft: false
 type: "meetup"
