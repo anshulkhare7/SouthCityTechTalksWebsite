@@ -1,6 +1,6 @@
 ---
 id: 2
-title: "South City Tech Talks Special Session: All Day DevOps 2019 Viewing"
+title: "SC Tech Talk — Special Session"
 date: 2019-11-21T14:37:04+05:30
 draft: false
 type: "meetup"
