@@ -35,6 +35,9 @@ Happy to announce we are having another South City Professionals (Tech Talks) Me
 ## Take Aways
 
 ### IOT resources
+
+<script async class="speakerdeck-embed" data-id="f8653c8c6ffc4f54bb4683daa8c1a284" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
   > [Deepesh's presentation](https://github.com/anshulkhare7/SouthCityTechTalksWebsite/blob/master/static/IOT_Deepesh.pdf)
   
 ### Serverless computing resources
