@@ -34,9 +34,10 @@ Happy to announce we are having another South City Professionals (Tech Talks) Me
 
 ## Take Aways
 
-### Deepesh's presentation
+### Deepesh's Presentation on IOT
 
 <script async class="speakerdeck-embed" data-id="51197363f04c41198248e92760390a54" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
   
-### Serverless computing resources
-  > [Shankar's presentation](https://github.com/anshulkhare7/SouthCityTechTalksWebsite/blob/master/static/Serverless_Computing_Shankar.pdf)
+### Shankar's Prentation on Serverless
+
+<script async class="speakerdeck-embed" data-id="df59df624399456790d98629334747f9" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
