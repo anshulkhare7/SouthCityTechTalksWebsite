@@ -1,6 +1,6 @@
 ---
 id: 4
-title: "SC Tech Talks — Jan' 20"
+title: "SC Tech Talk — Jan' 20"
 date: 2020-01-03T09:17:07+05:30
 draft: false
 type: "meetup"
